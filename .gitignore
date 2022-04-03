@@ -1,0 +1,5 @@
+# build
+**/dist
+
+# macos
+.DS_Store
